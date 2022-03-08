@@ -4,11 +4,11 @@ Java Application
 </title>
 <body>
 <center>
-<h1>Sample Java Web Application</h1>
+<h1>My Java Application</h1>
   <br>
-  <h2>New Feature Added</h2>
+  <h2>Scriptbees</h2>
   <br>
-  <h2>New Feature removed</h2>
+  <h2>Madhapur</h2>
   </br>
 </center>
 </body>
